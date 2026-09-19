@@ -2,7 +2,7 @@
 
 # 隐云(YinYun)VPN官网注册地址｜真实测速｜价格与套餐详解
 
-[完整详情与最新套餐](https://eoht.net/serve/airport/yinyun) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
+[完整详情与最新套餐](https://eoht.net/serve/airport/yinyun) · [机场仓库汇总](https://github.com/jcsift/airport-summary)
 
 隐云（YinYun）同时提供专属客户端和通用机场订阅，常见叫法包括“YinYun VPN”“隐云梯子”和“隐云机场”。希望自行管理代理节点，可以把通用订阅导入兼容客户端；选择时应先确定使用方式，再比较无限流量、固定流量、静态住宅 IP 和按需定制方案。
 
